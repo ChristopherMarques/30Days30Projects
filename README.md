@@ -8,8 +8,9 @@
 
 ## Projects (Updated at: 30/01/2021)
 
-* Roman To Decimal: [Tailwind CSS](https://github.com/ChristopherMarques/roman2decimal) ✔
-* UUID Generator: [Next JS](https://github.com/ChristopherMarques/uuidGenerator) ✔
+* Roman To Decimal: [Roman To Decimal](https://github.com/ChristopherMarques/roman2decimal) ✔
+* UUID Generator: [UUID Generator](https://github.com/ChristopherMarques/uuidGenerator) ✔
+* User Profile Design: [User Profile Design](https://github.com/ChristopherMarques/userProfileDesign) ✔
 
 ## Who made these projects?
 > All the projects are developed by me, and you can find all the source code here, on my github.
