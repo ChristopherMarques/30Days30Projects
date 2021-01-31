@@ -13,7 +13,7 @@
 
 ## Who made these projects?
 > All the projects are developed by me, and you can find all the source code here, on my github.
-> I hope that you like these!
+> I hope that you like them!
 
 ## License
-[MIT](https://github.com/ChristopherMarques/30Days30projects/blob/main/LICENSE) © [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.christopher_marques/)
+[MIT](https://github.com/ChristopherMarques/30Days30projects/blob/main/LICENSE) | [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.christopher_marques/)
