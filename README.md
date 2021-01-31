@@ -1,6 +1,6 @@
 # 🎉 30 Days 30 Projects Challenge ✨
 
-[![licence mit](https://img.shields.io/github/license/ChristopherMarques/roman2decimal)](https://github.com/ChristopherMarques/30Days30projects/blob/main/LICENSE)
+[![licence mit](https://img.shields.io/github/license/ChristopherMarques/30Days30Projects)](https://github.com/ChristopherMarques/30Days30projects/blob/main/LICENSE)
 [![#30Days30Projects](https://img.shields.io/badge/Part%20of%20Challenge-30Days30Projects-orange)](https://github.com/florinpop17/100Days100Projects)
 
 > Here are all of projects that i've made for the challenge. 😀
